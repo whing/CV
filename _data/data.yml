@@ -9,10 +9,10 @@ sidebar:
     # Profile information
     name: Vic Woo
     tagline: AI Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: I.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: wuhuang@outlook.com
+    email: vic.woo@vip.163.com
     # phone: +86 15856528646
     website: www.whing.cn #do not add http://
     weblog: www.whing.cn/blog
@@ -57,24 +57,18 @@ education:
       university: Anqing Normal University
       time: 2015 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Master of statistics, the research direction is statistical pattern recognition, the subject is the research of human action recognition methods based on skeleton data (CNKI), major in pattern recognition and machine learning methods and deep learning related technologies.
+          - Excellent Party Member
+          - Outstanding Graduate
+          
     - degree: BSc in Computer Science and Technology
       university: Anqing Teachers College
       time: 2011 - 2015
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Major in computer science and technology, including computer principle, operating system, data structure and algorithm, database principle, computer network and other courses.
+          - Excellent interns with in-post teaching practice
+          - Outstanding Graduate
+          
 experiences:
     - role: Lead Developer
       time: 2015 - Present
@@ -91,28 +85,28 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    # - role: Senior Software Engineer
+      # time: 2014 - 2015
+      # company: Google, London
+      # details: |
+        # Describe your role here lorem ipsum dolor sit amet, consectetuer
+        # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        # Cum sociis natoque penatibus et magnis dis parturient montes,
+        # nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        # pellentesque eu, pretium quis, sem.
+          # - Bullet point
+          # - Bullet point
+    # - role: UI Developer
+      # time: 2012 - 2014
+      # company: Amazon, London
+      # details: |
+        # Describe your role here lorem ipsum dolor sit amet, consectetuer
+        # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        # Cum sociis natoque penatibus et magnis dis parturient montes,
+        # nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        # pellentesque eu, pretium quis, sem.
+          # - Bullet point
+          # - Bullet point
 projects:
     title: Projects
     intro: >
@@ -166,22 +160,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Machine Learning & Deep Learning
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: TensorFlow & PyTorch & Caffe & MXNet
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: C/C++ & OpenCV
+        level: 90%
 
-      - name: Sketch & Photoshop
+      - name: Python & Flask
+        level: 90%
+
+      - name: MATLAB & PHP & Go
+        level: 80%
+
+      - name: HTML5 & Nodejs & uni-app
         level: 60%
 
 footer: >
