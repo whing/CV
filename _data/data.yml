@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Vic Woo
@@ -141,20 +141,20 @@ publications:
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
+      - title: Accurate Hierarchical Human Actions Recognition from Kinect Skeleton Data
+        link: "https://ieeexplore.ieee.org/document/8693506"
         # authors: Donald E. Knuth
-        # conference: Addison-Wesley, 1968
+        conference: IEEE Access - SCI: 000466798900001
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
+      - title: Hierarchical Human Action Recognition with Self-Selection Classifiers via Skeleton Data
+        link: "https://iopscience.iop.org/article/10.1088/0253-6102/70/5/633"
         # authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        # conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        conference: "Communications in Theoretical Physics - SCI: 000451760400018"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
+      - title: Human action recognition method based on hierarchical framework via Kinect skeleton data
+        link: "https://ieeexplore.ieee.org/document/8107747"
         # authors: Edgar T. Irons
-        # conference: "Comm. ACM 4 (1961), 51–55"
+        conference: "2017 International Conference on Machine Learning and Cybernetics (ICMLC) - EI: 20180904842839"
 
 skills:
     title: Skills &amp; Proficiency
