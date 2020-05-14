@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Vic Woo
@@ -143,38 +143,41 @@ publications:
     papers:
       - title: The Art of Computer Programming
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        # authors: Donald E. Knuth
+        # conference: Addison-Wesley, 1968
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        # authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        # conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
       - title: A syntax directed compiler for Algol 60
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        # authors: Edgar T. Irons
+        # conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Machine Learning & Deep Learning
+      - name: Deep Learning
         level: 98%
 
-      - name: TensorFlow & PyTorch & Caffe & MXNet
+      - name: CNN & RNN & GAN
         level: 95%
 
-      - name: C/C++ & OpenCV
+      - name: CV & ASR & NLP
         level: 90%
 
-      - name: Python & Flask
-        level: 90%
+      - name: TensorFlow & PyTorch
+        level: 85%
 
-      - name: MATLAB & PHP & Go
+      - name: C/C++ & Python & MATLAB
         level: 80%
-
+        
+      - name: PHP & Go & JSP
+        level: 70%
+        
       - name: HTML5 & Nodejs & uni-app
         level: 60%
 
