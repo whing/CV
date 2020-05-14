@@ -144,7 +144,7 @@ publications:
       - title: Accurate Hierarchical Human Actions Recognition from Kinect Skeleton Data
         link: "https://ieeexplore.ieee.org/document/8693506"
         # authors: Donald E. Knuth
-        conference: IEEE Access - SCI: 000466798900001
+        conference: "IEEE Access - SCI: 000466798900001"
 
       - title: Hierarchical Human Action Recognition with Self-Selection Classifiers via Skeleton Data
         link: "https://iopscience.iop.org/article/10.1088/0253-6102/70/5/633"
