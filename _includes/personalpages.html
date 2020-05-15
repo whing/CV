@@ -1,12 +1,12 @@
 {% assign personalpages = site.data.data.sidebar.personalpages %}
 {% if personalpages %}
-<div class="personalpages-container container-block">
+<div class="interests-container container-block">
 
   <h2 class="container-block-title">
-    Interests
+    PersonalPages
   </h2>
 
-  <ul class="list-unstyled personalpages-list">
+  <ul class="list-unstyled interests-list">
     {% for personalpage in personalpages %}
 
       {% if personalpage.link %}
@@ -18,5 +18,5 @@
     {% endfor %}
   </ul>
 
-</div><!--//personalpages-->
+</div><!--//interests-->
 {% endif %}
