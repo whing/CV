@@ -14,8 +14,8 @@ sidebar:
     # Sidebar links
     email: vic.woo@vip.163.com
     # phone: +86 15856528646
-    # website: www.whing.cn #do not add http://
-    weblog: www.whing.cn/blog
+    website: www.whing.cn #do not add http://
+    # weblog: www.whing.cn/blog
     linkedin: vicwoo
     github: vic9527
     # gitlab:
@@ -41,11 +41,21 @@ sidebar:
 
       - item: Novels and Animes
         link:
+        
+    PersonalPages:
+      - item: About Me
+        link: https://www.whing.cn/about
+
+      - item: My Research
+        link: https://www.whing.cn/research
+
+      - item: Vis's Blog
+        link: https://www.whing.cn/blog
 
 career-profile:
     title: Career Profile
     summary: |
-      Huang Wu (English name is Vic Woo), Master of Science (MSc), 
+      Vic Woo( Chinese name is Wu Huang), Master of Science (MSc), 
       graduated from Institute of Statistics in School of Computer and Information, 
       Anqing Normal University, Anhui, China. 
       The main research directions and interests are in Machine Learning (ML), 
@@ -122,9 +132,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      The following are the papers I published on the subject of research on human action recognition methods based on skeleton data during my postgraduate studies, including 2 sci journal retrieval papers and one EI conference retrieval paper.
     papers:
       - title: Accurate Hierarchical Human Actions Recognition from Kinect Skeleton Data
         link: "https://ieeexplore.ieee.org/document/8693506"
@@ -145,7 +153,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Deep Learning
+      - name: Machine/Deep Learning
         level: 98%
 
       - name: CNN & RNN & GAN
