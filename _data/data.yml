@@ -43,13 +43,13 @@ sidebar:
         link:
         
     personalpages:
-      - item: About Me
+      - item: www.whing.cn/about
         link: https://www.whing.cn/about
 
-      - item: My Research
+      - item: www.whing.cn/research
         link: https://www.whing.cn/research
 
-      - item: Vis's Blog
+      - item: www.whing.cn/blog
         link: https://www.whing.cn/blog
 
 career-profile:
