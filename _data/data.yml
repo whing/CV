@@ -132,7 +132,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      The following are the papers I published on the subject of research on human action recognition methods based on skeleton data during my postgraduate studies, including 2 sci journal retrieval papers and one EI conference retrieval paper.
+      The following are the papers I published on the subject of research on human action recognition methods based on skeleton data during my postgraduate studies, including 2 SCI journal retrieval papers and one EI conference retrieval paper.
     papers:
       - title: Accurate Hierarchical Human Actions Recognition from Kinect Skeleton Data
         link: "https://ieeexplore.ieee.org/document/8693506"
