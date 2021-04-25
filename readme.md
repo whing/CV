@@ -91,7 +91,7 @@ border-radius:8px 0px 8px 0px;padding:3px 6px;vertical-align:12px">算法工程�
 
 #### <img src="assets/graduation-cap-solid.svg" width="22px"> 教育背景
 
-- **2015/09~2018/07                        安庆师范大学                       统计模式识别                               硕士 **
+- **2015/09~2018/07                        安庆师范大学                       统计模式识别                               硕士**
 
 **[Reaps]** 一等奖学金，双优生，2次国际会议Oral Presentation，2篇SCI和1篇EI论文。
 
